@@ -4,7 +4,7 @@ Untuk soal pertama backend dan frontend saya menjawab langsung di README .md. </
 Untuk soal backend REST-API ada petunjuk untuk menjalankannya, begitu pula soal aplikasi frontend, yang tertera di README .md kedua folder tersebut
 
 ### Shortcut
-[Front-end nomor 1](https://github.com/prmzk/sekolahmu-test/tree/master/backend1)</br>
-[Front-end nomor 2](https://github.com/prmzk/sekolahmu-test/tree/master/backend2)</br>
-[Back-end nomor 1](https://github.com/prmzk/sekolahmu-test/tree/master/frontend1)</br>
-[Back-end nomor 2](https://github.com/prmzk/sekolahmu-test/tree/master/frontend2/sekolahmu-prakerja)
+[Back-end nomor 1](https://github.com/prmzk/sekolahmu-test/tree/master/backend1)</br>
+[Back-end nomor 2](https://github.com/prmzk/sekolahmu-test/tree/master/backend2)</br>
+[Front-end nomor 1](https://github.com/prmzk/sekolahmu-test/tree/master/frontend1)</br>
+[Front-end nomor 2](https://github.com/prmzk/sekolahmu-test/tree/master/frontend2/sekolahmu-prakerja)
